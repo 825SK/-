@@ -23,5 +23,4 @@ async def on_message(message):
         await message.channel.send('ポン！')
 
 client.run(TOKEN)
-
 ￼
